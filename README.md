@@ -17,7 +17,7 @@ This project is a simple and elegant QR code component designed as part of a fro
 
 ### Links
 
-- Live Site URL: (https://qr-code-three-gules.vercel.app/m)
+- Live Site URL: (https://qr-code-three-gules.vercel.app)
 
 ## My process
 
